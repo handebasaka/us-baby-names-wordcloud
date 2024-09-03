@@ -35,11 +35,11 @@ Since in the original dataset, there is no header, we need to add appropriate he
 ## How to Run
 clone:
 ```sh
-git clone https://github.com/handebasaka/handebasaka
+git clone https://github.com/handebasaka/us-baby-names-wordcloud
 ```
 open the solution file:
 ```bash
-cd handebasaka/us-baby-names-wordcloud
+cd us-baby-names-wordcloud
 ```
 run python script:
 ```bash
